@@ -82,4 +82,7 @@ void loop()
 
 ![output](./ROBOTICS%20CIRCUIT1.PNG)
 
+# Result:
+     Thus the simulation output is completed in tinker cad successfully.
+
 
